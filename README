@@ -1,0 +1,16 @@
+
+## Overview
+
+libbrblue is a linux c library which aims to accelerate embedded arm linux development.
+
+the full name of brblue is British Blue Shorthair!
+
+## Installation
+
+```bash
+git clone https://github.com/sfantree/libbrblue.git
+cd libbrblue
+make CROSS_COMPILE=/opt/xtools/arm920t/bin/arm-linux-
+```
+
+
